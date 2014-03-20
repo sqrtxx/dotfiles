@@ -11,7 +11,7 @@ sudo gem install homesick
 clone し, シンボリックリンクを貼る.
 
 ```bash
-homesick clone ${ユーザー名}/dotfiles
+homesick clone sqrtxx/dotfiles
 homesick symlink dotfiles
 ```
 
