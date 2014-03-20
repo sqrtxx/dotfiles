@@ -7,7 +7,7 @@ update
 # Add Repository
 tap homebrew/versions || true
 tap phinze/homebrew-cask || true
-tap homebrew/binary || true
+# tap homebrew/binary || true
 
 # Packages
 install autoconf
